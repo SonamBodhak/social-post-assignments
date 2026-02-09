@@ -37,11 +37,10 @@ body {
 .socialpost-background .skew-2{
     position: absolute;
     left: 317.48031496px;
-    top: 10px;
+   top: 10px;
     width: 379px;
-    height: 420px;
-    border: 8.1338582677px sollid transparent;
-    transform: skewX(-25deg);
+  height: 420px;
+  border: 8.1338582677px solid transparent;
     overflow: hidden;
     z-index: 3;
 }
@@ -351,8 +350,8 @@ body {
     border-top: 34.75pt solid #FFDC5B;
     border-left: 172pt solid #FFDC5B;
 }
-.contact-us .p {
-    text-emphasis-color: black;
+.contact-us p {
+    color: black;
 }
 
 .contact {
